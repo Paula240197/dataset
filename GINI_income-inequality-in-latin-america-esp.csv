@@ -1,0 +1,373 @@
+Entity;Code;Year;Gini index (SEDLAC)
+Argentina;ARG;1974;33,3
+Argentina;ARG;1980;38,0
+Argentina;ARG;1986;41,2
+Argentina;ARG;1987;43,5
+Argentina;ARG;1988;44,1
+Argentina;ARG;1991;44,4
+Argentina;ARG;1992;43,4
+Argentina;ARG;1993;42,8
+Argentina;ARG;1994;43,8
+Argentina;ARG;1995;46,8
+Argentina;ARG;1996;47,3
+Argentina;ARG;1997;46,9
+Argentina;ARG;1998;48,4
+Argentina;ARG;1999;47,6
+Argentina;ARG;2000;48,9
+Argentina;ARG;2001;51,3
+Argentina;ARG;2002;51,8
+Argentina;ARG;2003;48,3
+Argentina;ARG;2004;45,8
+Argentina;ARG;2005;45,3
+Argentina;ARG;2006;44,2
+Argentina;ARG;2007;44,0
+Argentina;ARG;2008;42,1
+Argentina;ARG;2009;41,5
+Argentina;ARG;2010;40,3
+Argentina;ARG;2011;39,6
+Argentina;ARG;2012;38,5
+Argentina;ARG;2013;38,1
+Argentina;ARG;2014;38,4
+Argentina;ARG;2015;37,6
+Argentina;ARG;2016;39,5
+Argentina;ARG;2017;38,6
+Bolivia;BOL;1992;47,2
+Bolivia;BOL;1993;51,6
+Bolivia;BOL;1997;56,3
+Bolivia;BOL;1999;56,4
+Bolivia;BOL;2000;59,9
+Bolivia;BOL;2001;55,4
+Bolivia;BOL;2002;57,6
+Bolivia;BOL;2005;56,6
+Bolivia;BOL;2006;54,6
+Bolivia;BOL;2007;52,2
+Bolivia;BOL;2008;48,7
+Bolivia;BOL;2009;47,1
+Bolivia;BOL;2011;43,9
+Bolivia;BOL;2012;44,6
+Bolivia;BOL;2013;45,6
+Bolivia;BOL;2014;45,6
+Bolivia;BOL;2015;44,5
+Bolivia;BOL;2016;42,3
+Bolivia;BOL;2017;41,8
+Brazil;BRA;1981;55,3
+Brazil;BRA;1982;55,9
+Brazil;BRA;1983;56,5
+Brazil;BRA;1984;55,9
+Brazil;BRA;1985;53,1
+Brazil;BRA;1986;56,2
+Brazil;BRA;1987;57,3
+Brazil;BRA;1988;59,3
+Brazil;BRA;1989;61,2
+Brazil;BRA;1990;58,9
+Brazil;BRA;1993;58,5
+Brazil;BRA;1995;57,8
+Brazil;BRA;1996;58,3
+Brazil;BRA;1997;58,2
+Brazil;BRA;1998;57,9
+Brazil;BRA;1999;57,2
+Brazil;BRA;2001;56,5
+Brazil;BRA;2002;56,3
+Brazil;BRA;2003;55,7
+Brazil;BRA;2004;54,5
+Brazil;BRA;2005;54,3
+Brazil;BRA;2006;53,7
+Brazil;BRA;2007;53,0
+Brazil;BRA;2008;52,1
+Brazil;BRA;2009;51,8
+Brazil;BRA;2011;51,1
+Brazil;BRA;2012;50,7
+Brazil;BRA;2013;51,0
+Brazil;BRA;2014;49,7
+Brazil;BRA;2015;49,5
+Brazil;BRA;2016;51,4
+Chile;CHL;1987;54,9
+Chile;CHL;1990;55,9
+Chile;CHL;1992;53,2
+Chile;CHL;1994;55,1
+Chile;CHL;1996;53,6
+Chile;CHL;1998;54,2
+Chile;CHL;2000;51,7
+Chile;CHL;2003;50,0
+Chile;CHL;2006;45,3
+Chile;CHL;2009;47,0
+Chile;CHL;2011;44,7
+Chile;CHL;2013;44,7
+Chile;CHL;2015;43,4
+Colombia;COL;2001;55,1
+Colombia;COL;2002;53,5
+Colombia;COL;2003;51,5
+Colombia;COL;2004;53,4
+Colombia;COL;2005;52,1
+Colombia;COL;2008;53,3
+Colombia;COL;2009;52,2
+Colombia;COL;2010;52,5
+Colombia;COL;2011;51,3
+Colombia;COL;2012;50,5
+Colombia;COL;2013;50,5
+Colombia;COL;2014;50,4
+Colombia;COL;2015;48,8
+Colombia;COL;2016;48,5
+Costa Rica;CRI;1989;43,7
+Costa Rica;CRI;1990;43,5
+Costa Rica;CRI;1991;44,7
+Costa Rica;CRI;1992;43,9
+Costa Rica;CRI;1993;44,2
+Costa Rica;CRI;1994;44,8
+Costa Rica;CRI;1995;44,0
+Costa Rica;CRI;1996;44,8
+Costa Rica;CRI;1997;43,6
+Costa Rica;CRI;1998;43,7
+Costa Rica;CRI;1999;45,7
+Costa Rica;CRI;2000;45,6
+Costa Rica;CRI;2001;49,6
+Costa Rica;CRI;2002;50,2
+Costa Rica;CRI;2003;47,4
+Costa Rica;CRI;2004;46,5
+Costa Rica;CRI;2005;45,5
+Costa Rica;CRI;2006;47,6
+Costa Rica;CRI;2007;47,5
+Costa Rica;CRI;2008;46,9
+Costa Rica;CRI;2009;48,8
+Costa Rica;CRI;2010;46,4
+Costa Rica;CRI;2011;46,8
+Costa Rica;CRI;2012;46,7
+Costa Rica;CRI;2013;47,6
+Costa Rica;CRI;2014;46,9
+Costa Rica;CRI;2015;46,6
+Costa Rica;CRI;2016;46,9
+Costa Rica;CRI;2017;46,6
+Dominican Republic;DOM;1996;45,9
+Dominican Republic;DOM;1997;47,1
+Dominican Republic;DOM;2000;50,4
+Dominican Republic;DOM;2001;48,6
+Dominican Republic;DOM;2002;48,2
+Dominican Republic;DOM;2003;50,2
+Dominican Republic;DOM;2004;50,1
+Dominican Republic;DOM;2005;47,9
+Dominican Republic;DOM;2006;50,2
+Dominican Republic;DOM;2007;46,6
+Dominican Republic;DOM;2008;45,4
+Dominican Republic;DOM;2009;46,4
+Dominican Republic;DOM;2010;45,1
+Dominican Republic;DOM;2011;45,3
+Dominican Republic;DOM;2012;43,5
+Dominican Republic;DOM;2013;44,8
+Dominican Republic;DOM;2014;42,2
+Dominican Republic;DOM;2015;42,8
+Dominican Republic;DOM;2016;43,5
+Ecuador;ECU;1995;55,9
+Ecuador;ECU;1998;55,7
+Ecuador;ECU;1999;56,7
+Ecuador;ECU;2000;54,7
+Ecuador;ECU;2003;51,2
+Ecuador;ECU;2004;52,0
+Ecuador;ECU;2005;50,9
+Ecuador;ECU;2006;49,9
+Ecuador;ECU;2007;51,1
+Ecuador;ECU;2008;47,5
+Ecuador;ECU;2009;46,0
+Ecuador;ECU;2010;46,4
+Ecuador;ECU;2011;43,6
+Ecuador;ECU;2012;43,8
+Ecuador;ECU;2013;44,5
+Ecuador;ECU;2014;42,6
+Ecuador;ECU;2015;43,5
+Ecuador;ECU;2016;42,8
+El Salvador;SLV;2000;49,3
+El Salvador;SLV;2001;49,4
+El Salvador;SLV;2002;49,8
+El Salvador;SLV;2004;45,7
+El Salvador;SLV;2005;46,4
+El Salvador;SLV;2006;43,6
+El Salvador;SLV;2007;43,1
+El Salvador;SLV;2008;44,8
+El Salvador;SLV;2009;43,8
+El Salvador;SLV;2010;41,4
+El Salvador;SLV;2011;40,0
+El Salvador;SLV;2012;39,6
+El Salvador;SLV;2013;41,4
+El Salvador;SLV;2014;39,5
+El Salvador;SLV;2015;38,4
+El Salvador;SLV;2016;38,0
+España;ESP;1995;34
+España;ESP;1996;34
+España;ESP;1997;35
+España;ESP;1998;34
+España;ESP;1999;33
+España;ESP;2000;32
+España;ESP;2001;33
+España;ESP;2002;31
+España;ESP;2004;31
+España;ESP;2005;32,2
+España;ESP;2006;31,9
+España;ESP;2007;31,9
+España;ESP;2008;32,4
+España;ESP;2009;32,9
+España;ESP;2010;33,5
+España;ESP;2011;34
+España;ESP;2012;34,2
+España;ESP;2013;33,7
+España;ESP;2014;34,7
+España;ESP;2015;34,6
+España;ESP;2016;34,5
+España;ESP;2017;34,1
+España;ESP;2018;33,2
+España;ESP;2019;33
+España;ESP;2020;32,1
+España;ESP;2021;33
+España;ESP;2022;32
+España;ESP;2023;31,5
+Guatemala;GTM;2000;51,6
+Guatemala;GTM;2002;54,2
+Guatemala;GTM;2003;51,7
+Guatemala;GTM;2004;48,1
+Guatemala;GTM;2006;51,9
+Guatemala;GTM;2011;49,9
+Guatemala;GTM;2014;45,8
+Honduras;HND;1991;51,8
+Honduras;HND;1992;52,6
+Honduras;HND;1993;52,1
+Honduras;HND;1994;53,9
+Honduras;HND;1995;54,2
+Honduras;HND;1996;55,0
+Honduras;HND;1997;49,5
+Honduras;HND;1998;50,0
+Honduras;HND;1999;48,1
+Honduras;HND;2001;53,2
+Honduras;HND;2002;53,7
+Honduras;HND;2003;56,2
+Honduras;HND;2004;56,6
+Honduras;HND;2005;57,7
+Honduras;HND;2006;55,6
+Honduras;HND;2007;53,9
+Honduras;HND;2008;53,6
+Honduras;HND;2009;49,3
+Honduras;HND;2010;51,2
+Honduras;HND;2011;54,7
+Honduras;HND;2012;54,3
+Honduras;HND;2013;50,4
+Honduras;HND;2014;48,3
+Honduras;HND;2015;47,6
+Honduras;HND;2016;48,1
+Mexico;MEX;1989;48,6
+Mexico;MEX;1992;50,3
+Mexico;MEX;1994;50,4
+Mexico;MEX;1996;51,4
+Mexico;MEX;1998;49,4
+Mexico;MEX;2000;50,5
+Mexico;MEX;2002;48,0
+Mexico;MEX;2004;47,8
+Mexico;MEX;2005;48,1
+Mexico;MEX;2006;46,5
+Mexico;MEX;2008;47,7
+Mexico;MEX;2010;44,9
+Mexico;MEX;2012;46,3
+Mexico;MEX;2014;46,4
+Mexico;MEX;2016;46,1
+Nicaragua;NIC;1993;55,4
+Nicaragua;NIC;1998;52,4
+Nicaragua;NIC;2001;50,3
+Nicaragua;NIC;2005;46,4
+Nicaragua;NIC;2009;41,7
+Nicaragua;NIC;2014;44,2
+Panama;PAN;1989;57,3
+Panama;PAN;1991;56,4
+Panama;PAN;1995;55,9
+Panama;PAN;1997;56,2
+Panama;PAN;1998;55,3
+Panama;PAN;1999;54,2
+Panama;PAN;2000;54,6
+Panama;PAN;2001;54,7
+Panama;PAN;2002;54,0
+Panama;PAN;2003;53,7
+Panama;PAN;2004;52,8
+Panama;PAN;2005;51,7
+Panama;PAN;2006;52,6
+Panama;PAN;2007;50,5
+Panama;PAN;2008;50,7
+Panama;PAN;2009;49,3
+Panama;PAN;2010;49,1
+Panama;PAN;2011;49,4
+Panama;PAN;2012;49,7
+Panama;PAN;2013;49,3
+Panama;PAN;2014;48,1
+Panama;PAN;2015;48,8
+Panama;PAN;2016;48,4
+Paraguay;PRY;1990;38,9
+Paraguay;PRY;1995;56,3
+Paraguay;PRY;1997;52,9
+Paraguay;PRY;1999;52,3
+Paraguay;PRY;2001;52,4
+Paraguay;PRY;2002;55,6
+Paraguay;PRY;2003;53,4
+Paraguay;PRY;2004;50,3
+Paraguay;PRY;2005;49,2
+Paraguay;PRY;2006;51,1
+Paraguay;PRY;2007;50,1
+Paraguay;PRY;2008;48,6
+Paraguay;PRY;2009;47,5
+Paraguay;PRY;2010;49,8
+Paraguay;PRY;2011;51,0
+Paraguay;PRY;2012;46,1
+Paraguay;PRY;2013;46,4
+Paraguay;PRY;2014;49,7
+Paraguay;PRY;2015;46,3
+Paraguay;PRY;2016;46,1
+Paraguay;PRY;2017;47,1
+Peru;PER;1997;51,2
+Peru;PER;1998;52,7
+Peru;PER;1999;52,7
+Peru;PER;2000;47,0
+Peru;PER;2001;49,4
+Peru;PER;2002;51,6
+Peru;PER;2003;51,0
+Peru;PER;2004;48,0
+Peru;PER;2005;48,5
+Peru;PER;2006;48,2
+Peru;PER;2007;48,2
+Peru;PER;2008;45,7
+Peru;PER;2009;45,2
+Peru;PER;2010;43,8
+Peru;PER;2011;42,8
+Peru;PER;2012;42,8
+Peru;PER;2013;42,1
+Peru;PER;2014;41,3
+Peru;PER;2015;41,5
+Peru;PER;2016;41,9
+Uruguay;URY;1989;40,4
+Uruguay;URY;1992;39,3
+Uruguay;URY;1995;38,6
+Uruguay;URY;1996;38,4
+Uruguay;URY;1997;39,0
+Uruguay;URY;1998;40,0
+Uruguay;URY;2000;40,2
+Uruguay;URY;2001;42,7
+Uruguay;URY;2002;43,1
+Uruguay;URY;2003;42,5
+Uruguay;URY;2004;43,5
+Uruguay;URY;2005;42,4
+Uruguay;URY;2006;43,6
+Uruguay;URY;2007;44,0
+Uruguay;URY;2008;43,0
+Uruguay;URY;2009;43,4
+Uruguay;URY;2010;42,1
+Uruguay;URY;2011;39,8
+Uruguay;URY;2012;37,4
+Uruguay;URY;2013;38,1
+Uruguay;URY;2014;37,7
+Uruguay;URY;2015;37,8
+Uruguay;URY;2016;37,4
+Venezuela;VEN;1989;40,9
+Venezuela;VEN;1992;39,5
+Venezuela;VEN;1995;44,4
+Venezuela;VEN;1997;46,0
+Venezuela;VEN;1998;45,4
+Venezuela;VEN;1999;45,2
+Venezuela;VEN;2000;42,4
+Venezuela;VEN;2001;44,7
+Venezuela;VEN;2002;46,0
+Venezuela;VEN;2003;44,8
+Venezuela;VEN;2004;44,1
+Venezuela;VEN;2005;46,2
+Venezuela;VEN;2006;41,6
